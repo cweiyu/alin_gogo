@@ -1,7 +1,7 @@
 # Channel Access Token
-line_bot_api = "你的Channel access token"')
+line_bot_api = "5TG59krKsc34A0BeWhNa3bgOTLuWNaM6rrw2aieVZp89Bo2dSQhB5A4MctqRQaN+tZUrrfge2OS8LSOKzqOYA7Ijo7FI4iyx/EacVaV4HcF4JsG94rBKPbYU8PAX86tD1Erq9M9fuJBotU4c97kX4gdB04t89/1O/w1cDnyilFU=")
 # Channel Secret
-handler = WebhookHandler('"你的Channel secret"')
+handler = WebhookHandler("ca247252b9030967aec2ec711235281f")
 #from _future_ import print_function
 #from apiclient.discovery import build
 from httplib2 import Http
